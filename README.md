@@ -13,6 +13,8 @@ Collecting resources with advice, guides, tips and tricks on running online meet
 
 # Conferences
 * [How To Run A Free Online Academic Conference: A Workbook](https://docs.google.com/document/d/1EABkSzEdJk5cmMLETpSbXaeDXmFwcTz7SUXP_C3dN9k/edit?usp=drivesdk)
+* [Webinar by KnowInnovation on virtual scientific meetings](https://knowinnovation.com/2020/03/you-too-can-go-virtual/) 
+* [satRday Neuchâtel → remote Or how to turn an on-site conference into a remote conference in two weeks](https://docs.google.com/document/d/1ZXmwVibQKtfCY_HiB49-OhQL-yKhUS9YD9yeMQZH88E/edit#)
 
 # Remote Working
 * [Gitlab Guide to all remote](https://about.gitlab.com/company/culture/all-remote/)
